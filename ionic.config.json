@@ -1,0 +1,7 @@
+{
+  "name": "divalogin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
